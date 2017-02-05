@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>Desboard</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <div class="welcome">
