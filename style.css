@@ -1,0 +1,13 @@
+*{margin:0px; padding:0px;}
+
+/*------Registration css----------*/
+.reg_form{margin:0 auto;width:400px; background: gray;text-align: center;}
+.reg_form h1{text-align: center;color:#fff;margin-bottom: 20px;}
+.log_link a{color:#fff;text-decoration: none;background: red; padding: 10px 5px;}
+/*--------Login css--------------*/
+.login_form{margin:0 auto;width:400px; background: gray;text-align: center;}
+.login_form h1{text-align: center;color:#fff;margin-bottom: 20px;}
+.reg_link a{color:#fff;text-decoration: none;background: red; padding: 10px 5px;}
+/*-------Index Page-------------*/
+.welcome{margin:0 auto;width:400px; background: gray;text-align: center;}
+.welcome a{color:#fff;text-decoration: none;background: red; padding: 10px 5px;}
